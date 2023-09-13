@@ -25,8 +25,8 @@
 
 
 #define PERRO 13
-#define GATO 14
-#define VACA 12
+#define GATO 12
+#define VACA 14
 #define POLLO 27
 #define PATO 26
 #define RANA 25
